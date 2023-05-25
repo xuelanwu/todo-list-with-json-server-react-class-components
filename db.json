@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "do housework"
+    },
+    {
+      "content": "drink water",
+      "id": 2
+    },
+    {
+      "content": "do homework",
+      "id": 3
+    },
+    {
+      "content": "feed dog",
+      "id": 4
+    }
+  ]
+}
