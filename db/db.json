@@ -7,7 +7,7 @@
     },
     {
       "content": "Call the plumber: Fix the leaking faucet in the bathroom.",
-      "completed": false,
+      "completed": true,
       "id": 2
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "content": "Pay bills: Settle electricity, water, and internet bills by the end of the week.",
-      "completed": false,
+      "completed": true,
       "id": 5
     },
     {
@@ -41,12 +41,7 @@
       "id": 8
     },
     {
-      "content": "Read a book: Spend 30 minutes each day reading 'The Great Gatsby.'",
-      "completed": true,
-      "id": 9
-    },
-    {
-      "content": "Practice guitar: Learn a new chord progression and practice for 1 hour.",
+      "content": "Practice guitar: Learn a new chord progression and practice for 2 hour.",
       "completed": false,
       "id": 10
     }
