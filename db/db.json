@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "content": "Buy groceries: Eggs, milk, bread, and apples.",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "content": "Call the plumber: Fix the leaking faucet in the bathroom.",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "content": "Finish report: Complete the quarterly sales report for the team.",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "content": "Walk the dog: Take Max for a 30-minute walk in the park.",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "content": "Pay bills: Settle electricity, water, and internet bills by the end of the week.",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "content": "Organize closet: Sort out clothes and donate unused items to charity.",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "content": "Research vacation destinations: Plan a summer getaway and compare options.",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "content": "Schedule dentist appointment: Book a check-up for next month.",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "content": "Read a book: Spend 30 minutes each day reading 'The Great Gatsby.'",
+      "completed": true,
+      "id": 9
+    },
+    {
+      "content": "Practice guitar: Learn a new chord progression and practice for 1 hour.",
+      "completed": false,
+      "id": 10
+    }
+  ]
+}
