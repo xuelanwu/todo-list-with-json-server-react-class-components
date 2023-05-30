@@ -1,0 +1,47 @@
+.todolist {
+  width: 80%;
+  margin: auto;
+  padding-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3rem;
+}
+
+.todolist-input {
+  min-width: 20rem;
+}
+
+.todolist-form {
+  display: flex;
+  gap: 1rem;
+}
+
+.submit-btn {
+  background-color: #398cb7;
+}
+
+.todolist-list-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.todolist-list {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1rem;
+  background-color: #f0f0f0;
+  border-radius: 1rem;
+}
+
+.todolist-list-title {
+  font-weight: 600;
+}
+
+input {
+  padding: 0.5rem;
+}

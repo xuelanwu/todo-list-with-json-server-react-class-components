@@ -1,0 +1,36 @@
+.todoitem {
+  list-style: none;
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #e4e1d3;
+}
+
+.todoitem-span,
+.todoitem-input {
+  flex-grow: 1;
+}
+
+button {
+  padding: 0 0.8rem;
+  border: none;
+  outline: none;
+  border-radius: 0.5rem;
+  color: #fefefe;
+}
+
+.todoitem-edit-btn,
+.todoitem-save-btn {
+  background-color: #398cb7;
+}
+
+.todoitem-delete-btn {
+  background-color: #bb534d;
+}
+.todoitem-move-btn {
+  background-color: #8eac56;
+}
